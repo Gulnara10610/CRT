@@ -1,0 +1,11 @@
+our10610_bot
+-1001584546614
+5707099066:AAHmMesV_2s2pCavDd6NjyBmSqlewcZsp0g
+
+https://api.telegram.org/bot5707099066:AAHmMesV_2s2pCavDd6NjyBmSqlewcZsp0g/getUpdates
+
+curl.exe -X POST -H 'Content-Type : application/json' -d'{"chat_id": "-1001584546614", "text": "Hello_world", "disable_notification": true}' https://api.telegram.org/bot5707099066:AAHmMesV_2s2pCavDd6NjyBmSqlewcZsp0g/sendMessage
+
+curl -X POST -H 'Content-Type : application/json' -d'{"chat_id": "-1001584546614", "text": "Hello ", "disable_notification": true}' https://api.telegram.org/bot5707099066:AAHmMesV_2s2pCavDd6NjyBmSqlewcZsp0g/sendMessage
+
+java -DconfigFile=notifications/telegram.json -jar notifications/allure-notifications-4.2.1.jar
