@@ -14,6 +14,10 @@ import static com.codeborne.selenide.Selenide.closeWebDriver;
 public class TestBase {
     @BeforeAll
     static void configure() {
+        Configuration.baseUrl = "https://www.speechpro.ru/";
+        Configuration.browserSize = "1920x1080";
+        String remoteUrl = System.getProperty("remote", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
+        Configuration.timeout = 10000;
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
@@ -23,17 +27,14 @@ public class TestBase {
         capabilities.setCapability("enableVideo", true);
 
         Configuration.browserCapabilities = capabilities;
-        Configuration.baseUrl = "https://demoqa.com";
+
         String browserName = System.getProperty("browser", "chrome");
         String browserVersion = System.getProperty("browserVersion", "100");
         String browserSize = System.getProperty("browserSize", "1920x800");
-        String remoteUrl = System.getProperty("remote", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
         Configuration.browser = browserName;
         Configuration.browserVersion = browserVersion;
         Configuration.browserSize = browserSize;
         Configuration.holdBrowserOpen = true;
-
-        //Configuration.remote = "https://user1:1234@selenoid.autotests.cloud/wd/hub";
 
         if (remoteUrl != null) {
             Configuration.remote = remoteUrl;
