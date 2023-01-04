@@ -12,11 +12,10 @@ public class Result {
             subTitleH2 = "Группа компаний ЦРТ",
             subTitleH3 = "Санкт-Петербург";
 
-    private SelenideElement
-    subTitle = $("p.mp-main_p");
+
 
     public Result checkResult(){
-       subTitle.shouldHave(text(stateStructure));
+        $("h1").shouldHave(text(stateStructure));
         return this;
     }
     public Result checkResultContact(){
