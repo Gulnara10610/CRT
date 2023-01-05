@@ -16,7 +16,7 @@
 ## :rocket: Технологии и инструменты:
 <p  align="center">
 
-<code><width="5%" ![image](https://user-images.githubusercontent.com/113972226/210761495-0b5d89c5-da3e-45e1-a569-593bc09b3082.png)></code>
+![image](https://user-images.githubusercontent.com/113972226/210761495-0b5d89c5-da3e-45e1-a569-593bc09b3082.png)
 <code>![image](https://user-images.githubusercontent.com/113972226/210761573-4016f054-b45f-4752-9aba-a55abac9296c.png)</code>
 <code>![image](https://user-images.githubusercontent.com/113972226/210761638-96ddb0e2-994c-40d2-be59-beb7dd9234c5.png)</code>
 <code>![image](https://user-images.githubusercontent.com/113972226/210761701-29f4baf5-77ca-49c0-975a-3f5d723c226e.png)</code>
@@ -81,7 +81,8 @@ gradle clean test
 <p align="center">
   <img ![image](https://user-images.githubusercontent.com/113972226/210760421-6e3ba7ab-05e1-40f6-b392-79928e6ae151.png) alt="allure" width="800">
 </p>
-## <img width="4%" title="Allure Report" ![Скриншот 04-01-2023 121715](https://user-images.githubusercontent.com/113972226/210760596-8a6ad40d-9bdc-4dae-b900-961762ba1705.jpg)> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/hw_project_15/2/allure/):
+## <img width="4%" title="Allure Report" ![Скриншот 04-01-2023 121715](https://user-images.githubusercontent.com/113972226/210760596-8a6ad40d-9bdc-4dae-b900-961762ba1705.jpg)> Отчет о результатах тестирования в Allure Report
+(https://jenkins.autotests.cloud/job/CrSS/allure/#suites/dbf0a6a9a89f101e0c65c76f407b621b/32c1abb4521b40b7/)):
 
 <p align="center">
   <img ![Скриншот 04-01-2023 121754](https://user-images.githubusercontent.com/113972226/210760678-0cf00bef-3b82-40b8-ad22-a807049dc432.jpg) alt="jenk" width="900">
