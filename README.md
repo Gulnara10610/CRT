@@ -42,6 +42,7 @@
 ## :computer: Запуск тестов из терминала: 
 
 
+ ![image](https://user-images.githubusercontent.com/113972226/210764347-af4c27a3-7e4f-4130-8213-d6f98391c13b.png)
 ### Локальный запуск тестов:
 
 ```bash
