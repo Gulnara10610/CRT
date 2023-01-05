@@ -69,12 +69,12 @@ gradle clean test
  <strong>*remoteUrl*</strong> – логин, пароль и адрес удаленного сервера Selenoid (_по умолчанию указаны в сборке Jenkins_).
 
 ## ![image](https://user-images.githubusercontent.com/113972226/210764942-98428dc4-79d9-4a0e-bd6f-0a03f7bf972f.png)
- Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/CrSS/)):
+ Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/CrSS/):
 
 Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать*</strong></code>.
 
 <p align="center">
- <img ![Скриншот 05-01-2023 140719](https://user-images.githubusercontent.com/113972226/210766701-9fa63906-7eb4-4a7c-b16d-d3c4d6d87598.jpg) alt="Jenkins" width="800">
+ ![Скриншот 05-01-2023 140719](https://user-images.githubusercontent.com/113972226/210766701-9fa63906-7eb4-4a7c-b16d-d3c4d6d87598.jpg) 
 </p>
 
 После выполнения сборки, в блоке <code><strong>*История сборок*</strong></code> напротив номера сборки появится
