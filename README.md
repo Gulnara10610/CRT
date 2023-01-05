@@ -74,7 +74,7 @@ gradle clean test
 Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать*</strong></code>.
 
 <p align="center">
-  <img src=![image](https://user-images.githubusercontent.com/113972226/210760198-3aadcfe6-ecc5-44bd-99d3-41c171e27679.png) width="800">
+  <![Скриншот 05-01-2023 140719](https://user-images.githubusercontent.com/113972226/210766229-c13b33cb-c97d-4409-aa1f-42ec8a46943d.jpg) width="800">
 </p>
 
 После выполнения сборки, в блоке <code><strong>*История сборок*</strong></code> напротив номера сборки появится
