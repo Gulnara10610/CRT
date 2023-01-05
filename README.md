@@ -17,15 +17,15 @@
 <p  align="center">
 
 ![image](https://user-images.githubusercontent.com/113972226/210761495-0b5d89c5-da3e-45e1-a569-593bc09b3082.png)
-<code>![image](https://user-images.githubusercontent.com/113972226/210761573-4016f054-b45f-4752-9aba-a55abac9296c.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210761638-96ddb0e2-994c-40d2-be59-beb7dd9234c5.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210761701-29f4baf5-77ca-49c0-975a-3f5d723c226e.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210761805-d55ea3a4-bd5a-4af9-919f-2ad0454dc63a.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210761863-05b6128a-a10b-4f0c-a135-d2c2af657ea5.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210761915-e024ea13-83fe-44be-8e26-4fa03a1f3c63.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210761969-8a20dec9-6c59-4600-b304-706cc158c335.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210762029-2dab402b-9faa-49fc-9ad9-d0dd2981bfb2.png)</code>
-<code>![image](https://user-images.githubusercontent.com/113972226/210762070-f6e56032-bdea-4bd7-8708-e5a0fd597051.png)</code>
+![image](https://user-images.githubusercontent.com/113972226/210761573-4016f054-b45f-4752-9aba-a55abac9296c.png)
+![image](https://user-images.githubusercontent.com/113972226/210761638-96ddb0e2-994c-40d2-be59-beb7dd9234c5.png)
+![image](https://user-images.githubusercontent.com/113972226/210761701-29f4baf5-77ca-49c0-975a-3f5d723c226e.png)
+![image](https://user-images.githubusercontent.com/113972226/210761805-d55ea3a4-bd5a-4af9-919f-2ad0454dc63a.png)
+![image](https://user-images.githubusercontent.com/113972226/210761863-05b6128a-a10b-4f0c-a135-d2c2af657ea5.png)
+![image](https://user-images.githubusercontent.com/113972226/210761915-e024ea13-83fe-44be-8e26-4fa03a1f3c63.png)
+![image](https://user-images.githubusercontent.com/113972226/210761969-8a20dec9-6c59-4600-b304-706cc158c335.png)
+![image](https://user-images.githubusercontent.com/113972226/210762029-2dab402b-9faa-49fc-9ad9-d0dd2981bfb2.png)
+![image](https://user-images.githubusercontent.com/113972226/210762070-f6e56032-bdea-4bd7-8708-e5a0fd597051.png)
 </p>
 
 ## :heavy_check_mark: Реализованные проверки:
