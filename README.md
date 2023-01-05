@@ -81,7 +81,7 @@ gradle clean test
 значок *Allure Report*, кликнув по которому, откроется страница с сформированным html-отчетом.
 
 <p align="center">
-  <img ![image](https://user-images.githubusercontent.com/113972226/210760421-6e3ba7ab-05e1-40f6-b392-79928e6ae151.png) alt="allure" width="800">
+ ![image](https://user-images.githubusercontent.com/113972226/210765825-8e7cb89c-094c-4119-a3dd-91cc8b50aa8f.png)
 </p>
 ## <img width="4%" title="Allure Report" ![Скриншот 04-01-2023 121715](https://user-images.githubusercontent.com/113972226/210760596-8a6ad40d-9bdc-4dae-b900-961762ba1705.jpg)> Отчет о результатах тестирования в Allure Report
 (https://jenkins.autotests.cloud/job/CrSS/allure/#suites/dbf0a6a9a89f101e0c65c76f407b621b/32c1abb4521b40b7/)):
