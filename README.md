@@ -16,7 +16,7 @@
 ## :rocket: Технологии и инструменты:
 <p  align="center">
 
-<code><img ![image](https://user-images.githubusercontent.com/113972226/210761495-0b5d89c5-da3e-45e1-a569-593bc09b3082.png)></code>
+<code>![image](https://user-images.githubusercontent.com/113972226/210761495-0b5d89c5-da3e-45e1-a569-593bc09b3082.png)</code>
 <code><img width="5%" title="GitHub" ![image](https://user-images.githubusercontent.com/113972226/210761573-4016f054-b45f-4752-9aba-a55abac9296c.png)></code>
 <code><img width="5%" title="IntelliJ IDEA" ![image](https://user-images.githubusercontent.com/113972226/210761638-96ddb0e2-994c-40d2-be59-beb7dd9234c5.png)></code>
 <code><img width="5%" title="Selenoid" ![image](https://user-images.githubusercontent.com/113972226/210761701-29f4baf5-77ca-49c0-975a-3f5d723c226e.png)></code>
