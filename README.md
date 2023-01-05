@@ -49,7 +49,7 @@
 gradle clean test
 ```
 
-![image](https://user-images.githubusercontent.com/113972226/210764347-af4c27a3-7e4f-4130-8213-d6f98391c13b.png)
+
 ### Удаленный запуск тестов:
 ```bash
 gradle clean test
@@ -68,7 +68,8 @@ gradle clean test
 
  <strong>*remoteUrl*</strong> – логин, пароль и адрес удаленного сервера Selenoid (_по умолчанию указаны в сборке Jenkins_).
 
-## <img width="4%" title="Jenkins" src="images/Jenkins_logo.svg"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/CrSS/)):
+## ![image](https://user-images.githubusercontent.com/113972226/210764942-98428dc4-79d9-4a0e-bd6f-0a03f7bf972f.png)
+ Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/CrSS/)):
 
 Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать*</strong></code>.
 
