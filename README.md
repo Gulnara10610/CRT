@@ -74,8 +74,9 @@ gradle clean test
 Для запуска сборки необходимо указать значения параметров и нажать кнопку <code><strong>*Собрать*</strong></code>.
 
 <p align="center">
-<code>![Скриншот 05-01-2023 140719](https://user-images.githubusercontent.com/113972226/210766701-9fa63906-7eb4-4a7c-b16d-d3c4d6d87598.jpg)</code> 
+  <img src="images/Скриншот 05-01-2023 140719.jpg" alt="Jenkins" width="800">
 </p>
+
 
 После выполнения сборки, в блоке <code><strong>*История сборок*</strong></code> напротив номера сборки появится
 значок *Allure Report*, кликнув по которому, откроется страница с сформированным html-отчетом.

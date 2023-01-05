@@ -48,7 +48,7 @@ public class CheckMainPage extends TestBase {
         result.invalidFillForm();
     }
     @Test
-    @DisplayName("Проверка ошибок в консоле")
+    @DisplayName("Проверка ошибок в консоли")
     void consoleShouldNotHaveErrorsTest(){
         mainPage.openMainPage()
                 .consoleShouldNotHaveErrors();
