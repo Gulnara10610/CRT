@@ -82,21 +82,21 @@ gradle clean test
 значок *Allure Report*, кликнув по которому, откроется страница с сформированным html-отчетом.
 
 <p align="center">
- ![image](https://user-images.githubusercontent.com/113972226/210765825-8e7cb89c-094c-4119-a3dd-91cc8b50aa8f.png)
+  <img src="images/Скриншот 05-01-2023 174534.jpg">
 </p>
-## <img width="4%" title="Allure Report" ![Скриншот 04-01-2023 121715](https://user-images.githubusercontent.com/113972226/210760596-8a6ad40d-9bdc-4dae-b900-961762ba1705.jpg)> Отчет о результатах тестирования в Allure Report
+## <img width="4%" title="Allure Report"  Отчет о результатах тестирования в Allure Report
 (https://jenkins.autotests.cloud/job/CrSS/allure/#suites/dbf0a6a9a89f101e0c65c76f407b621b/32c1abb4521b40b7/)):
 
 <p align="center">
-  <img ![Скриншот 04-01-2023 121754](https://user-images.githubusercontent.com/113972226/210760678-0cf00bef-3b82-40b8-ad22-a807049dc432.jpg) alt="jenk" width="900">
+  <img src="images/Скриншот 05-01-2023 122828.jpg"  alt="jenk" width="900">
 </p>
 
 
-## <img width="4%" title="Telegram" ![Скриншот 05-01-2023 123016](https://user-images.githubusercontent.com/113972226/210760761-02a41508-6327-426f-8d6f-2b3cd8d2ccf7.jpg)> Уведомления в Telegram с использованием бота:
+##  Уведомления в Telegram с использованием бота:
 После завершения сборки специальный бот, созданный в <strong>Telegram</strong>, автоматически обрабатывает и отправляет сообщение с отчетом о прогоне тестов.
 
 <p align="center">
-<img ![Скриншот 04-01-2023 122002](https://user-images.githubusercontent.com/113972226/210760946-0b48b713-cdea-47d1-a24f-a29b15170f1b.jpg) alt="400" width="400">
+<img src="images/Скриншот 05-01-2023 123016.jpg"  alt="400" width="400">
 </p>
 
 
